@@ -18,43 +18,43 @@ This project analyzes marketing strategies for five companies (Alpha Innovations
 
 
 
-Temporal Analysis: Examines ROI and Conversion_Rate trends (stable at ~5.0 and ~0.08, Jan–May 2021), with proposed Prophet and LSTM forecasting.
+* Temporal Analysis: Examines ROI and Conversion_Rate trends (stable at ~5.0 and ~0.08, Jan–May 2021), with proposed Prophet and LSTM forecasting.
 
 
 
-Cost Efficiency: Calculates Cost_Per_Conversion by company and channel.
+* Cost Efficiency: Calculates Cost_Per_Conversion by company and channel.
 
 
 
-Campaign Type Analysis: Evaluates ROI and Conversion_Rate by campaign type.
+* Campaign Type Analysis: Evaluates ROI and Conversion_Rate by campaign type.
 
 
 
-Recommendations: Company-specific strategies (e.g., prioritize Email for NexGen Systems, Google Ads for TechCorp) and cross-company insights.
+* Recommendations: Company-specific strategies (e.g., prioritize Email for NexGen Systems, Google Ads for TechCorp) and cross-company insights.
 
-Dataset
-
-
+## Dataset
 
 
 
-Size: 200,000 campaign records
+
+
+* Size: 200,000 campaign records
 
 
 
-Columns: Campaign_ID, Company, Channel_Used, Campaign_Type, Conversion_Rate, ROI, Acquisition_Cost, Date, Clicks, Impressions, Engagement_Score, etc.
+* Columns: Campaign_ID, Company, Channel_Used, Campaign_Type, Conversion_Rate, ROI, Acquisition_Cost, Date, Clicks, Impressions, Engagement_Score, etc.
 
 
 
-Companies: Alpha Innovations, DataTech Solutions, Innovate Industries, NexGen Systems, TechCorp
+* Companies: Alpha Innovations, DataTech Solutions, Innovate Industries, NexGen Systems, TechCorp
 
 
 
-Channels: Email, Facebook, Google Ads, Instagram, Website, YouTube
+* Channels: Email, Facebook, Google Ads, Instagram, Website, YouTube
 
 
 
-Campaign Types: Email, Influencer, Search, Social Media, etc.
+* Campaign Types: Email, Influencer, Search, Social Media, etc.
 
 Usage
 
