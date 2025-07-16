@@ -1,20 +1,20 @@
-Marketing Optimization: MTA & MMM for Cross-Company Insights
+# Marketing Optimization: MTA & MMM for Cross-Company Insights
 
-Overview
+## Overview
 
 This project analyzes marketing strategies for five companies (Alpha Innovations, DataTech Solutions, Innovate Industries, NexGen Systems, TechCorp) using a dataset of 200,000 campaign records. It employs Mixed Marketing Modeling (MMM) and Multi-Touch Attribution (MTA) to quantify the impact of channels (Email, Facebook, Google Ads, Instagram, Website, YouTube) and campaign types (Email, Influencer, Search, Social Media) on ROI and conversions. Additional analyses include temporal trends (Jan–May 2021), cost efficiency (Cost_Per_Conversion), and campaign type performance, culminating in actionable recommendations to optimize budget allocation and marketing strategies.
 
-Features
+## Features
 
 
 
 
 
-MMM: Quantifies channel and campaign type impacts on ROI using linear regression (lightweight) and proposed XGBoost, Neural Networks, and Bayesian MMM (advanced).
+* MMM: Quantifies channel and campaign type impacts on ROI using linear regression (lightweight) and proposed XGBoost, Neural Networks, and Bayesian MMM (advanced).
 
 
 
-MTA: Attributes conversions to channels using linear attribution (lightweight) and proposed Markov Chains, LSTMs, and SHAP (advanced).
+* MTA: Attributes conversions to channels using linear attribution (lightweight) and proposed Markov Chains, LSTMs, and SHAP (advanced).
 
 
 
