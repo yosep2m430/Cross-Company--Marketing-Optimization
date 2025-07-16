@@ -56,13 +56,13 @@ This project analyzes marketing strategies for five companies (Alpha Innovations
 
 * Campaign Types: Email, Influencer, Search, Social Media, etc.
 
-Usage
+## Usage
 
 
 
 
 
-Data Preparation:
+* Data Preparation:
 
 
 
@@ -76,7 +76,7 @@ Calculate Conversions = Conversion_Rate * Clicks.
 
 
 
-Run Analyses:
+* Run Analyses:
 
 
 
@@ -102,7 +102,7 @@ Campaign Type: Run campaign_type_analysis.py for campaign type performance.
 
 
 
-Visualizations:
+* Visualizations:
 
 
 
@@ -120,7 +120,7 @@ Line plots for temporal trends (ROI, Conversion_Rate).
 
 
 
-Recommendations:
+## Recommendations:
 
 
 
@@ -128,27 +128,27 @@ Recommendations:
 
 See recommendations.md for detailed company-specific strategies based on MMM, MTA, temporal, and cost efficiency analyses.
 
-Key Findings
+## Key Findings
 
 
 
 
 
-Alpha Innovations: Scale YouTube and Influencer campaigns; reduce Google Ads and Instagram.
+* Alpha Innovations: Scale YouTube and Influencer campaigns; reduce Google Ads and Instagram.
 
 
 
-DataTech Solutions: Optimize Website and Facebook; reassess campaign types (e.g., test Brand).
+* DataTech Solutions: Optimize Website and Facebook; reassess campaign types (e.g., test Brand).
 
 
 
-Innovate Industries: Reinforce Email and YouTube; explore Brand campaigns.
+* Innovate Industries: Reinforce Email and YouTube; explore Brand campaigns.
 
 
 
-NexGen Systems: Balance Email (high conversions) and Search (high ROI); scale Facebook and Google Ads.
+* NexGen Systems: Balance Email (high conversions) and Search (high ROI); scale Facebook and Google Ads.
 
 
 
-TechCorp: Prioritize Facebook, Instagram, and Google Ads; focus on Influencer and Search campaigns.
+* TechCorp: Prioritize Facebook, Instagram, and Google Ads; focus on Influencer and Search campaigns.
 
